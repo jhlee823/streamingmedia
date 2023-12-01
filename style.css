@@ -63,6 +63,7 @@ body {
 
 h1 {
     font-size:1.25em;
+    padding: 15px 15px;
 }
 
 header {
@@ -78,6 +79,7 @@ header .logo {
     font-variant-caps: small-caps;
 }
 
+
 header ul {
     overflow: hidden;
     background-image: linear-gradient(to right, #2104D9, #030a8c, #020659);
@@ -91,8 +93,9 @@ nav a {
     text-transform: uppercase;
 }
 
-
-
+header p {
+    padding: 15px 15px;
+}
 
 
 
