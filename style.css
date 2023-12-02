@@ -46,6 +46,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* CSS RESET END */
+
 
 html {
     background-color: #020873;
@@ -86,6 +88,10 @@ header ul {
     list-style: none;
     text-align: center;
     padding: 15px 15px;
+}
+
+nav li {
+    display: inline;
 }
 
 nav a {
